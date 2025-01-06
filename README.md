@@ -8,6 +8,11 @@ Altough as of 2025 there being a lot of sophiscated writing assistant tools for 
 
 > "If you can't explain it simply, you don't understand it well enough." — Albert Einstein
 
+## Current Progress 
+**Reading**
+* ( ) William Strunk Jr., [The Elements of Style](https://www.amazon.com/Elements-Style-Fourth-William-Strunk/dp/020530902X) 
+
+
 ## Books 
 Book recommandation by [Professor Inger Mewburn](https://thesiswhisperer.com/) 
 Links to each book can be found on [here](https://docs.google.com/document/d/1FSj_t4_YTzVBdVUE-msag_0US7Bta38_tL9hLERURHY/edit?tab=t.0)
